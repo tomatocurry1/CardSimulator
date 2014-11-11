@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CardSimulation.iml" filepath="$PROJECT_DIR$/CardSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardSimulator.iml" filepath="$PROJECT_DIR$/CardSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
